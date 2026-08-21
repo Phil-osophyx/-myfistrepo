@@ -1,5 +1,5 @@
 # -myfistrepo
 My first Git repository
 <br>
-Author: Aksh Agarwal(learning git)
+Author: Aksh Agarwal(learning git) <br>
  hi chat
